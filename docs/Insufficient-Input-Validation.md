@@ -1,5 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-
+---
+title: Insufficient Input Validation
+---
 ## 14. Insufficient Input Validation
 
 ### Real Case
