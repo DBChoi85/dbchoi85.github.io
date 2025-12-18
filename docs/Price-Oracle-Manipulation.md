@@ -1,5 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-
+---
+title: Price Oracle Manipulation
+---
 ## 9. Price Oracle Manipulation
 
 ### Real Case
