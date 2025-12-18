@@ -8,7 +8,7 @@ _A curated list of major Ethereum smart contract vulnerability patterns, their h
 
 ## 2. [Integer Overflow / Underflow](docs/Integer Overflow Underflow)
 
-## 3. [Access Control Misconfiguration](docs/Access Control Misconfiguration)
+## 3. [Access Control Misconfiguration](docs/Access-Control-Misconfiguration)
 
 ## 4. [Unchecked External Call](docs/Unchecked External Call)
 
