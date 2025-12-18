@@ -1,5 +1,5 @@
 # Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
----
+
 ## 2. Integer Overflow / Underflow
 
 ### Real Case
