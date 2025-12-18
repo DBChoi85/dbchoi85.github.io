@@ -1,5 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-
+---
+title: Denial of Service (DoS)
+---
 ## 10. Denial of Service (DoS)
 
 ### Real Case
