@@ -1,4 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
+---
+title: Token Standard Misimplementation (ERC-20/721/1155)
+---
 ## 15. Token Standard Misimplementation (ERC-20/721/1155)
 
 ### Real Case
