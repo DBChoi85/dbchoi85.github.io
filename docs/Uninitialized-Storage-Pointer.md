@@ -1,5 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-
+---
+title: Uninitialized Storage Pointer
+---
 ## 5. Uninitialized Storage Pointer
 
 ### Real Case
