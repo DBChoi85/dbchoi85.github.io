@@ -1,5 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-
+---
+title: Logic Errors / Business Logic Bypass
+---
 ## 12. Logic Errors / Business Logic Bypass
 
 ### Real Case
