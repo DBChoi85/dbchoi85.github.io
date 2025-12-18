@@ -1,4 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
+---
+title: Insecure Initialization / Constructor Issues
+---
 ## 13. Insecure Initialization / Constructor Issues
 
 ### Real Case
