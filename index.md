@@ -1,4 +1,4 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
+# Smart Contract Risk Patterns (15 Types)
 
 _A curated list of major Ethereum smart contract vulnerability patterns, their historical incidents, minimal vulnerable code examples, and conceptual explanations._
 
