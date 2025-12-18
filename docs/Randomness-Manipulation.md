@@ -1,5 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-
+---
+title: Randomness Manipulation
+---
 ## 7. Randomness Manipulation
 
 ### Real Case
