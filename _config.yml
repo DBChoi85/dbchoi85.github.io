@@ -1,5 +1,7 @@
-title: Smart Contract Vulnerabilities
-description: Real Cases & Vulnerable Code Examples (15 Types)
+theme: jekyll-theme-primer
+
+title: Smart Contract Risk Patterns (15 Types)
+description: A curated collection of real-world Ethereum smart contract risk patterns with vulnerable code examples
 
 author: ""
 
