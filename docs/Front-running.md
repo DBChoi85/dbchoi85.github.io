@@ -1,4 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
+---
+title: Front-running / MEV Exploits
+---
 ## 8. Front-running / MEV Exploits
 
 ### Real Case
