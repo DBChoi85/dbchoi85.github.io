@@ -1,5 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-
+---
+title: Access Control Misconfiguration
+---
 ## 3. Access Control Misconfiguration
 
 ### Real Case
