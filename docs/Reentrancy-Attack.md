@@ -1,5 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-
+---
+title: Reentrancy Attack
+---
 ## 1. Reentrancy Attack
 
 ### Real Case
