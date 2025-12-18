@@ -4,7 +4,7 @@ _A curated list of major Ethereum smart contract vulnerability patterns, their h
 
 ---
 
-## 1. [Reentrancy Attack](docs/Reentrancy Attack)
+## 1. [Reentrancy Attack](docs/Reentrancy-Attack)
 
 ## 2. [Integer Overflow / Underflow](docs/Integer Overflow Underflow)
 
