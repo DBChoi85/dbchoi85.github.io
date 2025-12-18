@@ -1,5 +1,7 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
-# References – Smart Contract Vulnerabilities
+---
+title: Bibilography
+---
+# Bibilography
 
 This document lists the primary references used to identify, explain, and exemplify the 15 smart contract vulnerability and incident patterns described in this work.  
 The sources below are widely accepted standards in smart contract security research, auditing, and real-world incident analysis.
