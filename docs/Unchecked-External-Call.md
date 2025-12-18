@@ -1,4 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
+---
+title: Unchecked External Call
+---
 ## 4. Unchecked External Call
 
 ### Real Case
