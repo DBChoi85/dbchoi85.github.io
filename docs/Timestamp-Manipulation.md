@@ -1,4 +1,6 @@
-# Smart Contract Vulnerabilities – Real Cases & Vulnerable Code Examples (15 Types)
+---
+title: Timestamp Manipulation
+---
 ## 11. Timestamp Manipulation
 
 ### Real Case
